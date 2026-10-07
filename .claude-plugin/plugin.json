@@ -1,0 +1,7 @@
+{
+  "name": "doro-context",
+  "version": "0.1.0",
+  "description": "A pixel doro above the prompt who gets rounder as the context window fills up",
+  "author": { "name": "Gelzone" },
+  "types": "./types/index.d.ts"
+}

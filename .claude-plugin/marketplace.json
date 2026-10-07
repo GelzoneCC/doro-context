@@ -1,0 +1,6 @@
+{
+  "name": "doro-context",
+  "description": "A pixel doro who shows your Claude Code context window usage",
+  "owner": { "name": "Gelzone" },
+  "plugins": [{ "name": "doro-context", "source": "./" }]
+}
